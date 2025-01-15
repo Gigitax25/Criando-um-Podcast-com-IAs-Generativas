@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ ** Este é o repositório desenvolvido para o desafio "Criando um Podcast com IAs Generativa" do "Bootcamp CAIXA - IA Generativa com Microsoft Copilot" da DIO sob mentoria de [Felipe Aguiar](https://github.com/felipeAguiarCode)
+ > ℹ️ ** Este é o repositório desenvolvido para o desafio "Criando um Podcast com IAs Generativa" do "Bootcamp CAIXA - IA Generativa com Microsoft Copilot" da DIO sob mentoria de [Felipe Aguiar](https://github.com/felipeAguiarCode) forked https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 

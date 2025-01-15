@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    preview do podcast<audio src="Audio/Podcast editado Capcut.mp3" controls title="Podcast editado"></audio>
 </p>
 
 <div align="center">

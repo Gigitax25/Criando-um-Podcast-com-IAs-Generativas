@@ -53,7 +53,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🎧 Podcast (Resultado)
  
-- Audio/Podcast editado Capcut.mp3
+- https://github.com/Gigitax25/Criando-um-Podcast-com-IAs-Generativas/tree/main/Audio
 
 
 

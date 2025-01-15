@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ ** Este é o repositório desenvolvido para o desafio "Criando um Podcast com IAs Generativa" do "Bootcamp CAIXA - IA Generativa com Microsoft Copilot" da DIO.
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 

@@ -39,7 +39,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT]: título e Roteiro. 
 - [Meta AI Whatsapp]: Geração de Imagem
-- [ElevenLabs]: Aúdio.
+- [ElevenLabs](https://beta.elevenlabs.io/) : Aúdio.
 - [Capcut]: edição de aúdio.
 - [Canvas]: Criação da capa do Podcast.
 

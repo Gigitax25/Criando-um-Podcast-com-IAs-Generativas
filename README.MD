@@ -53,7 +53,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🎧 Podcast (Resultado)
  
-- {Audio/Podcast editado Capcut.mp3}
+- [Audio/Podcast editado Capcut.mp3]
 
 
 

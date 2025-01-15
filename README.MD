@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./Capa Podcast Cabeca no Lugar_Podcaster Veronica.jpg"
-    width="300"
+    width="500"
 />
 </p>
 

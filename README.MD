@@ -82,7 +82,7 @@ Meta AI：
       width=80 
       src="https://avatars.githubusercontent.com/u/33b6ae28d80b?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGiceli D. Souza<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Gigitax25">

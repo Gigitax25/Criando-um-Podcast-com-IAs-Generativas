@@ -37,18 +37,19 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT]: título e Roteiro. 
-- [Meta AI Whatsapp]: Geração de Imagem
-- [ElevenLabs](https://beta.elevenlabs.io/) : Aúdio.
-- [Capcut]: edição de aúdio.
-- [Canvas]: Criação da capa do Podcast.
+- [ChatGPT] 
+- [Meta AI Whatsapp]
+- [ElevenLabs](https://beta.elevenlabs.io/) 
+- [Capcut]
+- [Canvas]
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Meta AI Para gerar imagem
 - Capcut para tratar aúdio e adicionar sons de fundo
+- Canvas para criação da capa do Podcast.
 
 ## 📚 Materiais
 

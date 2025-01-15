@@ -80,7 +80,7 @@ Meta AI：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/33b6ae28d80b?v=4"
+      src="https://avatars.githubusercontent.com/u/193442865?v=4"
     />
     <p>&nbsp&nbsp&nbspGiceli D. Souza<br>
     &nbsp&nbsp&nbsp

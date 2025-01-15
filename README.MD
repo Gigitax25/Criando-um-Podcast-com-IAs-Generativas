@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="Audio/Podcast editado Capcut.mp3" controls title="Podcast editado"></audio>
+    <audio src=".Audio/Podcast editado Capcut.mp3" controls title="Podcast editado"></audio> 
 </div>
 
 # Projeto Podcast Gerado por I.A.s

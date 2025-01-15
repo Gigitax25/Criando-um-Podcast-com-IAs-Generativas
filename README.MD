@@ -85,7 +85,7 @@ Meta AI：
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/Gigitax25">
         GitHub
     </a>
     &nbsp;|&nbsp;

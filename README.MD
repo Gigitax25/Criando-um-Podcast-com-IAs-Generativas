@@ -33,14 +33,15 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [ChatGPT]: título e Roteiro. 
+- [Meta AI Whatsapp]: Geração de Imagem
+- [ElevenLabs]: Aúdio
+- [Capcut]: edição de aúdio.
+- [Canvas]: Criação da capa do Podcast..
 
 ## ✨ Como foi feito ?
 

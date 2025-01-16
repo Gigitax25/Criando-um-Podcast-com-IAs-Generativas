@@ -73,7 +73,7 @@ Meta AI：
 |  Imagem  | crie uma imagem de uma mulher de cabelos castanhos vestindo roupas informais, falando sorridente num microfone de mesa, ambiente informal em plano aberto, luz de fundo, iluminação cinematográfica dinâmica, iluminação global, resolução ultra-alta, filtro realista de cores reais, fotorrealista.|
 
 
-## 👨‍💻 Aprendiz
+## 👨‍💻 Autora
 
 <p>
     <img 
